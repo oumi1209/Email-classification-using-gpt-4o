@@ -1,4 +1,4 @@
-# Gmail Email Classifier
+# Emails classification using gpt-4o
 
 This project uses the Gmail API to fetch the latest emails from a user's Gmail account and classifies them into three categories: Work, Personal, and Spam using the Azure OpenAI GPT-4 model. The application is built using Streamlit for the frontend.
 
